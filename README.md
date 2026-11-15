@@ -55,7 +55,7 @@ Hi, I'm **Abdelrhman (Abdo)**, a first-year Computer Science student at **Univer
 
 | Project | Description | Link |
 |---|---|---|
-| **IT Projects & Assignments** | My UTM e-portfolio: assignments, labs and reflections for SECP1513 | [View repo](https://github.com/mohamedabuali-source/IT-Projects-and-Assignments) |
+| [Project 1] | [Short description] | [link] |
 | [Project 2] | [Short description] | [link] |
 | [Project 3] | [Short description] | [link] |
 
